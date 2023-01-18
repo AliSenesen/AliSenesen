@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliSenesen
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity Game Engine
+- 🌱 I’m currently using Unity Game Engine
 - 📫 How to reach me : ali.senesen@hotmail.com
 - 
 
